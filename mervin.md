@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mousam07
+- 👀 I’m interested in PHP,MySQL,JAVASCRIPT,AJAX,jQuery
+- 🌱 I’m currently learning..
+- 💞️ I’m looking to collaborate on something special
+- 📫 How to reach me ...> mousamdebadatta@hotmail.com
